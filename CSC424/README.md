@@ -1,2 +1,2 @@
-# CSC315 Intro to Python
-Python code (.py and .ipynb) for projects done in the CSC315 Intro to Python class at University of Miami. The class focused on learning the basics of Python in a handful of game examples (.py files), as well as an intro to PANDAS and data analysis (.ipynb files) using Python in Jupyter Notebook.
+# CSC424 Database Systems
+Python code using the sqlite library to treat Jupyter Notebook files as SQL files to practice using SQL commands in a flexible system and run many commands at once. All programs were assignment files created by the professor and then completed as homework assignments.
